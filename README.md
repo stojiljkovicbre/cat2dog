@@ -7,10 +7,13 @@ and Gaussan Discriminant Analysis (or Logistic Regression or Support Vector Mach
 
 This project uses cat2dog dataset from Kaggle: https://www.kaggle.com/waifuai/cat2dog.
 
+
 First of all install all necessary software:
 
 	- install anaconda from official website https://www.anaconda.com/ ans add it to your PATH
 	- execute SETUP_CONDA_ENVIRONMENT.bat and make sure it endas with: 'cat2dog environment has been set up'
+
+Than extract cat2dog.zip
 
 To train GDA algorithm:
 
