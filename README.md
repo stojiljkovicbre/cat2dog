@@ -10,20 +10,20 @@ This project uses cat2dog dataset from Kaggle: https://www.kaggle.com/waifuai/ca
 
 First of all install all necessary software:
 
-	- install anaconda from official website https://www.anaconda.com/ ans add it to your PATH
+	- install anaconda from official website https://www.anaconda.com/ and add it to your PATH
 	- execute SETUP_CONDA_ENVIRONMENT.bat and make sure it endas with: 'cat2dog environment has been set up'
 
 Than extract:
 
 	- cat2dog.zip
 
-To train GDA algorithm:
+To train GDA algorithm execute:
 
-	- execute train_GDA.bata
+	- train_GDA.bata
 
-To evaluate performances of trained GDA algorithm
+To evaluate performances of trained GDA algorithm execute:
 
-	- execute test_GDA.bata
+	- test_GDA.bata
 
 To test the algorithm on a single image use cat2dog_app.bat:
 
