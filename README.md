@@ -13,7 +13,9 @@ First of all install all necessary software:
 	- install anaconda from official website https://www.anaconda.com/ ans add it to your PATH
 	- execute SETUP_CONDA_ENVIRONMENT.bat and make sure it endas with: 'cat2dog environment has been set up'
 
-Than extract cat2dog.zip
+Than extract:
+
+	- cat2dog.zip
 
 To train GDA algorithm:
 
